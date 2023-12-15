@@ -9,4 +9,6 @@
 - [x] 08 - Object Literals
 - [ ] 09 - Object Destructuring
 - [ ] 10 - Classes
+- [ ] 11 - Getter & Setter
+- [ ] 12 - Static Methods
  
