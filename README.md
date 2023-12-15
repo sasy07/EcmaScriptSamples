@@ -1,5 +1,5 @@
-# EcmaScriptSamples
-[x] ##  01 - Intro 
+### EcmaScriptSamples
+- [x] 01 - Intro 
 ## [x] 02 - Const & Let
 ## [x] 03 - String Template 
 ## [x] 04 - Tagged Template
