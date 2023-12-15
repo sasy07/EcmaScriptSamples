@@ -1,0 +1,1 @@
+import '~/scripts/08-objectLiterals.js'
