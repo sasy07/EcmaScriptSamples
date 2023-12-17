@@ -11,11 +11,11 @@
 - [x] 10 - Classes
 - [x] 11 - Getter & Setter
 - [x] 12 - Static Methods
-- [ ] 13 - Inheritance
-- [ ] 14 - Arrays (For Loop)
-- [ ] 15 - Arrays (From)
-- [ ] 16 - Arryas (Fill & Of)
-- [ ] 17 - Arrays (Find & FindIndex)
+- [x] 13 - Inheritance
+- [x] 14 - Arrays (For Loop)
+- [x] 15 - Arrays (From)
+- [x] 16 - Arryas (Fill & Of)
+- [x] 17 - Arrays (Find & FindIndex)
 - [ ] 18 - Map
 - [ ] 19 - Map Methods
 - [ ] 20 - Set Methods

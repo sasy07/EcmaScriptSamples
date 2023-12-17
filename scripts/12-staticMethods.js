@@ -16,4 +16,4 @@ const person1 = new Person('Sasy', 'Ghf', 34);
 person1.sayMyName();
 
 //person1.goodPerson('MrLost') has error
-Person.goodPerson('MrLost')
+Person.goodPerson('MrLost');
