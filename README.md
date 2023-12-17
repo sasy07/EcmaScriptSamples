@@ -11,4 +11,23 @@
 - [ ] 10 - Classes
 - [ ] 11 - Getter & Setter
 - [ ] 12 - Static Methods
- 
+- [ ] 13 - Inheritance
+- [ ] 14 - Arrays (For Loop)
+- [ ] 15 - Arrays (From)
+- [ ] 16 - Arryas (Fill & Of)
+- [ ] 17 - Arrays (Find & FindIndex)
+- [ ] 18 - Map
+- [ ] 19 - Map Methods
+- [ ] 20 - Set Methods
+- [ ] 21 - WeakSet & WeakMap
+- [ ] 22 - Symbol
+- [ ] 23 - Promise & Callback
+- [ ] 24 - Promise 1
+- [ ] 25 - Promise 2
+- [ ] 26 - Proxy
+- [ ] 27 - Reflect
+- [ ] 28 - Generators
+- [ ] 29 - Iterables & Iterators
+- [ ] 30 - ES7 Updates
+- [ ] 31 - Async & Await
+- [ ] 32 - ES8 Updates
