@@ -1,4 +1,4 @@
-# EcmaScriptSamples
+## EcmaScriptSamples
 - [x] 01 - Intro 
 - [x] 02 - Const & Let
 - [x] 03 - String Template 
@@ -7,10 +7,10 @@
 - [x] 06 - Spread Operator
 - [x] 07 - Arrow Functions
 - [x] 08 - Object Literals
-- [ ] 09 - Object Destructuring
-- [ ] 10 - Classes
-- [ ] 11 - Getter & Setter
-- [ ] 12 - Static Methods
+- [x] 09 - Object Destructuring
+- [x] 10 - Classes
+- [x] 11 - Getter & Setter
+- [x] 12 - Static Methods
 - [ ] 13 - Inheritance
 - [ ] 14 - Arrays (For Loop)
 - [ ] 15 - Arrays (From)
