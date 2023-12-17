@@ -23,6 +23,6 @@ console.log(arr6);
 
 //splice
 
-let numbers = ['one' , 'two' , 'three' , 'five']
-numbers.splice(3,0,'four')
+let numbers = ["one", "two", "three", "five"];
+numbers.splice(3, 0, "four");
 console.log(numbers);
